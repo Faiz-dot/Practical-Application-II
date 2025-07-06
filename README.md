@@ -2,7 +2,7 @@
 
 # Used Car Price Prediction
 
-A data-driven approach to predicting used car prices using regression techniques. This project blends statistical modeling, feature engineering, and domain insight to deliver actionable recommendations for a used car dealership.
+A data-driven approach to predicting used car prices using regression techniques. This project blends statistical modeling, feature engineering, and domain insight to deliver actionable recommendations for a used car dealership. Find the details at this link https://github.com/Faiz-dot/Practical-Application-II
 
 ## 💼 Project Summary
 
